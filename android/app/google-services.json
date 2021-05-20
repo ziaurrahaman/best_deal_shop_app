@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770085444326",
+    "project_id": "best-deal-shop-app",
+    "storage_bucket": "best-deal-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770085444326:android:badf7493576702c529f927",
+        "android_client_info": {
+          "package_name": "com.example.best_deal_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770085444326-c74uskood1728ff4ikk8loulbqr6fui9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknaJpKJal6iYafRDPt64JwdCYM4m8cLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770085444326-c74uskood1728ff4ikk8loulbqr6fui9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
