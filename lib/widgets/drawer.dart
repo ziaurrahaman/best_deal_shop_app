@@ -24,17 +24,17 @@ class AppDrawer extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Image.asset(
-                  'assets/icons/ph.png',
-                  height: 64.0,
-                  width: 64.0,
-                ),
+                // Image.asset(
+                //   'assets/icons/ph.png',
+                //   height: 64.0,
+                //   width: 64.0,
+                // ),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Promo',
+                      'Best Deal',
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'Calibri',
@@ -43,7 +43,7 @@ class AppDrawer extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'Hunter',
+                      'Shop App',
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'Calibri',

@@ -112,17 +112,17 @@ class OnBoardingScreenOne extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.asset(
-                    'assets/icons/ph.png',
-                    height: 120.0,
-                    width: 120.0,
-                  ),
+                  // Image.asset(
+                  //   'assets/icons/ph.png',
+                  //   height: 120.0,
+                  //   width: 120.0,
+                  // ),
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                        'Promo',
+                        'Best Deal',
                         style: TextStyle(
                           color: Theme.of(context).primaryColor,
                           fontFamily: 'Calibri',
@@ -131,7 +131,7 @@ class OnBoardingScreenOne extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        'Hunter',
+                        'Shop App',
                         style: TextStyle(
                           color: Colors.white,
                           fontFamily: 'Calibri',
@@ -155,7 +155,7 @@ class OnBoardingScreenOne extends StatelessWidget {
             ),
             SizedBox(height: 16.0),
             Text(
-              'Welcome to Promo Hunter. The Promo Hunter app powered by the community.',
+              'Welcome to Best Deal Shop App. The Promo Hunter app powered by the community.',
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.white,
